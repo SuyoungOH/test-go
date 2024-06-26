@@ -7,8 +7,9 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"test-go/routers"
 	"time"
+
+	"test-go/routers"
 )
 
 func main() {
